@@ -104,3 +104,11 @@ Visual scheme:
 
 I will use cardboard to make a pleated effect, wrapping it in layers around the outside of the box, with the cardboard stacked to make the box resemble a sponge-wrapped soundproof chamber.
 
+
+
+
+Summary (challenges and gains)：
+
+About the challenges, I really think the process was full of challenges, not only needed to learn the code knowledge during the project. The circuit connections afterwards also need a lot of patience and care. The housing also required full use of hands-on skills. Probably the most challenging part for me was the code, for example some of the symbols took me a long time to understand them. But in the end I managed to complete them, whether by asking my classmates or my teacher for advice.
+During this course I not only gained knowledge of code and circuits, but also gained friendship in the lab. Although each student was preparing their own final project, but we discussed our experiences with each other during the busy time, for example: someone spent a long time checking the circuit and finally found that it was a soldering short circuit; someone found that the speaker often did not work and found that it needed added resistors to match the circuit work; some people were not proficient in code and asked teachers and classmates for advice on their problems. Throughout this some of the experience even kept passing on, I gained knowledge about soldering boards from one girl and I passed it on to another student when someone asked me about it. Being in the lab is busy and fulfilling, it's an amazing place! I really like here.
+
