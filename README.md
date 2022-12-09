@@ -2,6 +2,8 @@
 
 Creative Making —— Final project Weekly Record
 
+project Video：
+https://youtu.be/g5c3dpKNIGg
 
 Week 6：
 
