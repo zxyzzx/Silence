@@ -11,9 +11,6 @@ My project was inspired by my current state of life. I am concerned that people 
 
 I created some ideas, and then I made a sketch for my idea:
 
-
-
-
 Flow Chart:
 
 ![image](https://user-images.githubusercontent.com/119873123/206622856-a310e0e3-7fac-493e-b478-2fcea8e3d735.png)
@@ -21,7 +18,6 @@ Flow Chart:
 Idea description:
 
 The project needs cute housing to make it look a bit more approachable or quirky. When someone passes by, the distance sensor detects the position information, and the signal is transmitted to the motor to make some funny body movements. If the person is in a stationary state, probably working or studying, the sound of tapping the keyboard or writing is played through the buzzer or speaker, as if someone is studying with you, giving the feeling that "I am not alone all the time " kind of atmosphere.
-
 
 Later I did some more in-depth research on the subject and I found that humans are sensitive to sound. I was reminded of a psychological experiment called the Soundless Test. The researchers dissected the nature of this 'fear of silence' that we are born with. The reason silence is so frightening is partly because it subconsciously means that "something big is going to happen" and creates a sense of anticipation - or anxiety - depending on what you What to expect. Without auditory cues to remind you of what is happening, it seems that anything is possible. Is there anything more frightening than that? Maybe phonophobia or acoustophobia?
 For example, horror films like to use silence to create a scary atmosphere. This probably stems from an instinct of fear of silence in people themselves. This somatic source is explained as "a sense of unknown and ungraspable fear of the surroundings".
@@ -36,16 +32,15 @@ Based on further research I rethought the design direction again
 Brainstorming：
 ![brain Storming](https://user-images.githubusercontent.com/119873123/206624805-f4206c74-bdca-43ab-8597-da30b361c8ba.jpg)
 
-
 Sketch：
 
+![2bc60b8afee098fc1fc1cf88e3173e5](https://user-images.githubusercontent.com/119873123/206743062-6b6868be-718c-4f5c-a6be-af575dcd5152.jpg)
 
 Concept：
 
 Selecting the appropriate inputs and outputs according to my ideas.
 
 ![图片2](https://user-images.githubusercontent.com/119873123/206626181-f08c6a3e-0b87-4648-9ac4-6e14186a32bd.png)
-
 
 Stage 1: Facing a sudden silence, will you choose to move away or get closer?
 I chose to use an ultrasonic sensor for controlling MP3 music playback by distance. The music will keep playing when the person is not close to the box. If the person moves closer to the sensor, the music will stop playing. I wanted a sudden change to mobilize the emotional rising and falling of the interactor.
@@ -56,6 +51,7 @@ I chose to use a button to control the motor. The interactor can place their han
 Circuit diagram：
 
 ![电路图2](https://user-images.githubusercontent.com/119873123/206626356-200b42f1-33c3-4828-acdc-a183f5a9e741.png)
+
 
 
 Week 8:
@@ -83,7 +79,6 @@ Solder is very testing, when I add a lot of material then it is easy to short ci
 
 The power supply voltage is not sufficient to require an additional power adapter.
 
-
 Some processes:
 
 ![e49588e987752ad00834b1a9278cd2d](https://user-images.githubusercontent.com/119873123/206635368-b8989c35-a9cc-402a-a09b-016504832213.jpg)
@@ -91,6 +86,7 @@ Some processes:
 ![731df3cbe4c678157856a7c5774d8ca](https://user-images.githubusercontent.com/119873123/206634494-9849dd10-d23f-461d-92cd-bb3181cc2778.jpg)
 
 ![e49588e987752ad00834b1a9278cd2d](https://user-images.githubusercontent.com/119873123/206634929-1ccccd5d-17a6-4f6f-bc96-b77f69b5aeec.jpg)
+
 
 
 Week 9:
@@ -102,9 +98,11 @@ In the end, I chose 24 x 12 x 35mm, with an opening (length x width) large enoug
 
 Visual scheme:
 
+![3c1d0d52147ec0c46567d473d540b04](https://user-images.githubusercontent.com/119873123/206743924-18218c1e-d667-4bc0-8f85-cf542a31b172.jpg)
+
+![dd25cbe9ecb95531d8bd1c64c4682ed](https://user-images.githubusercontent.com/119873123/206743971-b366d45f-ddf6-44b4-a74d-e7638fc49ba3.jpg)
+
 I will use cardboard to make a pleated effect, wrapping it in layers around the outside of the box, with the cardboard stacked to make the box resemble a sponge-wrapped soundproof chamber.
-
-
 
 
 Summary (challenges and gains)：
