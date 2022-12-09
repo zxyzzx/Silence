@@ -59,8 +59,48 @@ Circuit diagram：
 
 
 Week 8:
+
 My Work: Interaction flow, coding part, code testing, soldering, program change iteration, and writing text.
 
-Some surprises.
-1, After assembly, I found that the speaker had a loud noise of current, which for a while made me think it was a problem with my code because I found that it would sound whether it was close or far away. Then I searched on the web and saw somebody share that it needed additional resistors. I tried it later and the speaker played the sound just as normal and I was so excited that this problem was solved.
+Some surprises：
+
+1. About resistor:
+
+After assembly, I found that the speaker had a loud noise of current, which for a while made me think it was a problem with my code because I found that it would sound whether it was close or far away. Then I searched on the web and saw somebody share that it needed additional resistors. I tried it later and the speaker played the sound just as normal and I was so excited that this problem was solved.
+
+2. Error on Arduino board: 
+
+![image](https://user-images.githubusercontent.com/119873123/206633634-ef684bc7-fa17-42a2-b0bb-edfe764993b9.png)
+
+After testing successfully, I tried to edit my code but suddenly when I uploaded the code it suddenly showed compile error and shows the port could not be found on the software, I was so confused I don't know what happened and I tried to retransfer the circuit to the breadboard also unsuccessful, so I asked the teacher for help. After we looked into it we ended up thinking that the soldering might be shorting out the circuit.
+
+3. Problems with soldering:
+
+At first, I don't know that the solder board needs to distinguish between front and back, when I soldered some of it and showed it to my classmate, she told me that I had soldered it backward, so I removed it and soldered it again.
+Solder is very testing, when I add a lot of material then it is easy to short circuit; when I add very little material then the wire is easy to come off the solder plate, and it took me a long time to fix it.
+
+4. Circuit connections:
+
+The power supply voltage is not sufficient to require an additional power adapter.
+
+
+Some processes:
+
+![e49588e987752ad00834b1a9278cd2d](https://user-images.githubusercontent.com/119873123/206635368-b8989c35-a9cc-402a-a09b-016504832213.jpg)
+
+![731df3cbe4c678157856a7c5774d8ca](https://user-images.githubusercontent.com/119873123/206634494-9849dd10-d23f-461d-92cd-bb3181cc2778.jpg)
+
+![e49588e987752ad00834b1a9278cd2d](https://user-images.githubusercontent.com/119873123/206634929-1ccccd5d-17a6-4f6f-bc96-b77f69b5aeec.jpg)
+
+
+Week 9:
+
+My Work: code testing, housing production, recording video, writing text
+
+About the appropriate housing, I made a simple model to determine the size of the housing, because I wanted it to be a very deep box to match my interaction scheme.
+In the end, I chose 24 x 12 x 35mm, with an opening (length x width) large enough to put a hand in.
+
+Visual scheme:
+
+I will use cardboard to make a pleated effect, wrapping it in layers around the outside of the box, with the cardboard stacked to make the box resemble a sponge-wrapped soundproof chamber.
 
